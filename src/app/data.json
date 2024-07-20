@@ -1,0 +1,2267 @@
+[
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://westherts.ac.uk"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "student.westherts.ac.uk",
+      "westherts.ac.uk"
+    ],
+    "state-province": null,
+    "name": "West Herts College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://rhul.ac.uk"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "rhul.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Royal Holloway University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://myport.port.ac.uk"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "myport.ac.uk",
+      "myport.port.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Portsmouth"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://futureworks.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "futureworks.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Futureworks"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.arts.ac.uk"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "arts.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of the Arts London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.abdn.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "abdn.ac.uk",
+      "aberdeen.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Aberdeen"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://aber.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "aber.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Aberystwyth University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.abertay.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "abertay.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Abertay Dundee"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.aiuniv.edu/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "aiuniv.edu"
+    ],
+    "state-province": null,
+    "name": "American InterContinental University - London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.anglia.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "anglia.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Anglia Ruskin University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.aston.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "aston.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Aston University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.aul.edu/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "aul.edu"
+    ],
+    "state-province": null,
+    "name": "The American University in London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bangor.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bangor.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wales, Bangor"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bath.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bath.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Bath"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.bathspa.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bathspa.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Bath Spa University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bbk.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bbk.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Birkbeck College, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bcom.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bcom.ac.uk"
+    ],
+    "state-province": null,
+    "name": "British College of Osteopathic Medicine"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bcu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bcu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Birmingham City University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.beds.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "beds.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Bedfordshire"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bham.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bham.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Birmingham"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bolton.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bolton.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Bolton"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bournemouth.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bournemouth.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Bournemouth University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.brad.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "brad.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Bradford"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.brijnet.org/lsjs/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "brijnet.org"
+    ],
+    "state-province": null,
+    "name": "London School of Jewish Studies"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.bristol.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bristol.ac.uk",
+      "bris.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Bristol"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.brookes.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "brookes.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Oxford Brookes University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.brunel.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "brunel.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Brunel University Uxbridge"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bton.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bton.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Brighton"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.buck.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "buck.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Buckingham"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.bucks.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bucks.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Buckinghamshire New University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.cam.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "cam.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Cambridge"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.camb.linst.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "camb.linst.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Camberwell College of Arts"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.canterbury.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "canterbury.ac.uk"
+    ],
+    "state-province": "Canterbury",
+    "name": "Canterbury Christ Church University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.cardiff.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "cardiff.ac.uk",
+      "cf.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Cardiff University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.chelsea.linst.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "chelsea.linst.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Chelsea College of Art and Design"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.chester.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "chester.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Chester"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.city.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "city.ac.uk"
+    ],
+    "state-province": null,
+    "name": "City University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.courtauld.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "courtauld.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Courtauld Institute of Art, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.coventry.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "coventry.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Coventry University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.cranfield.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "cranfield.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Cranfield University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.csm.linst.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "csm.linst.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Central Saint Martins College of Art & Design"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.derby.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "derby.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Derby"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.dmu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "dmu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "De Montfort University Leicester"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.dundee.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "dundee.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Dundee"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.dur.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "dur.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Durham"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.edgehill.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "edgehill.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Edge Hill University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ed.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ed.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Edinburgh"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.eselondon.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "eselondon.ac.uk"
+    ],
+    "state-province": null,
+    "name": "European School of Economics"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.essex.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "essex.ac.uk",
+      "sx.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Essex"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ex.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ex.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Exeter"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.falmouth.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "falmouth.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Falmouth University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.gcal.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "gcal.ac.uk",
+      "gcu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Glasgow Caledonian University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.gla.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "gla.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Glasgow"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.glam.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "glam.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Glamorgan"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.glos.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "glos.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Gloucestershire"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.gold.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "gold.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Goldsmiths College, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.gre.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "gre.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Greenwich"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.gsa.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "gsa.ac.uk",
+      "student.gsa.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Glasgow School of Art"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.halifaxuni.ac/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "halifaxuni.ac"
+    ],
+    "state-province": null,
+    "name": "University of Halifax, Birmingham Campus"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.herts.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "herts.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Hertfordshire"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.heythrop.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "heythrop.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Heythrop College, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.hope.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "hope.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Liverpool Hope University College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.hud.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "hud.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Huddersfield"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.hull.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "hull.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Hull"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.huron.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "huron.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Huron University USA in London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.hw.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "hw.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Heriot-Watt University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.imperial.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "imperial.ac.uk",
+      "ic.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Imperial College London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ifslearning.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ifslearning.ac.uk"
+    ],
+    "state-province": null,
+    "name": "ifs University College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://ihr.sas.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ihr.sas.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Institue of Historical Research, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ioe.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ioe.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Institute of Education, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.islamiccolleges.com/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "islamiccolleges.com"
+    ],
+    "state-province": null,
+    "name": "International Colleges of Islamic Science"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.kcl.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "kcl.ac.uk"
+    ],
+    "state-province": null,
+    "name": "King's College London, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.keele.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "keele.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Keele University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.kingston.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "kingston.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Kingston University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.kolieh.com/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "kolieh.com"
+    ],
+    "state-province": null,
+    "name": "International Centre for Isclamic Science"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lamp.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lamp.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wales, Lampeter"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lancs.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lancs.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Lancaster"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lboro.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lboro.ac.uk",
+      "student.lboro.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Loughborough University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lbs.lon.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lbs.lon.ac.uk"
+    ],
+    "state-province": null,
+    "name": "London Business School"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lcst.ac/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lcst.ac"
+    ],
+    "state-province": null,
+    "name": "London College of Science & Technology"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.le.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "le.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Leicester"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.leeds.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "leeds.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Leeds"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lgu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lgu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "London Guildhall University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.limt.co.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "limt.co.uk"
+    ],
+    "state-province": null,
+    "name": "London Institute of Management and Technology"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lincoln.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lincoln.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Lincoln"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.liv.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "liv.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Liverpool"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.ljmu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ljmu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Liverpool John Moores University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.leedsbeckett.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "leedsbeckett.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Leeds Beckett University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lon.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lon.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.londonmet.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "londonmet.ac.uk"
+    ],
+    "state-province": null,
+    "name": "London Metropolitan University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lsbf.org.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lsbf.org.uk"
+    ],
+    "state-province": null,
+    "name": "London School of Business & Finance"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lse.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lse.ac.uk"
+    ],
+    "state-province": null,
+    "name": "London School of Economics and Political Science, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.lshtm.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lshtm.ac.uk"
+    ],
+    "state-province": null,
+    "name": "London School of Hygiene & Tropical Medicine, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.manchester.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "manchester.ac.uk",
+      "mbs.ac.uk",
+      "man.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Manchester"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.mdx.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "mdx.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Middlesex University - London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.med.ic.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "med.ic.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Imperial College School of Medicine"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.mmu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "mmu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "The Manchester Metropolitan University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.napier.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "napier.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Edinburgh Napier University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.ncl.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ncl.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Newcastle University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.newport.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "newport.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wales, Newport"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.niu.org.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "niu.org.uk"
+    ],
+    "state-province": null,
+    "name": "Newport International University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.northampton.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "northampton.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Northampton"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.nottingham.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "nottingham.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Nottingham"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ntu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ntu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Nottingham Trent University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.open.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "open.ac.uk",
+      "ou.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Open University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ox.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "oxford.ac.uk",
+      "ox.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Oxford"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.paisley.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "paisley.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Paisley"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.plymouth.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "plymouth.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Plymouth"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.port.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "port.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Portsmouth"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.qmul.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "qmw.ac.uk",
+      "qmul.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Queen Mary, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.qub.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "qub.ac.uk"
+    ],
+    "state-province": null,
+    "name": "The Queen's University Belfast"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ram.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ram.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Royal Academy of Music, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.rca.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "rca.ac.uk",
+      "network.rca.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Royal College of Art"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.rcm.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "rcm.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Royal College of Music, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.rdg.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "rdg.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Reading"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.rfhsm.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "rfhsm.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Royal Free Hospital School of Medicine, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.rgu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "rgu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "The Robert Gordon University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.royalholloway.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "royalholloway.ac.uk",
+      "rhbnc.ac.uk",
+      "rh.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Royal Holloway and Bedford New College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.richmond.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "richmond.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Richmond University - The American International University in London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.roehampton.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "roehampton.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Roehampton University of Surrey"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.salford.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "salford.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Salford"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.sas.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "sas.ac.uk"
+    ],
+    "state-province": null,
+    "name": "School of Advanced Study, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.sbu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "sbu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "South Bank University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.schillerlondon.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "schillerlondon.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Schiller International University, London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.sclondon.ac/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "sclondon.ac"
+    ],
+    "state-province": null,
+    "name": "Stratford College London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.sghms.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "sghms.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Saint George's Hospital Medical School, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.sheffield.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "shef.ac.uk",
+      "sheffield.ac.uk"
+    ],
+    "state-province": null,
+    "name": "The University of Sheffield"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.shu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "shu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Sheffield Hallam University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.smu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "smu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Swansea Metropolitan University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.soas.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "soas.ac.uk"
+    ],
+    "state-province": null,
+    "name": "School of Oriental and African Studies, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.solent.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "solent.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Southampton Solent University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.sothebysinstitutelondon.com/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "sothebysinstitutelondon.com"
+    ],
+    "state-province": null,
+    "name": "Sotheby´s Institute of Art - London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.southampton.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "soton.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Southampton"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ssees.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ssees.ac.uk"
+    ],
+    "state-province": null,
+    "name": "School of Slavonic and East European Studies, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.staffs.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "staffs.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Staffordshire University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.st-andrews.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "st-andrews.ac.uk",
+      "st-and.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of St. Andrews"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.stir.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "stir.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Stirling"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.st-patricks.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "st-patricks.ac.uk"
+    ],
+    "state-province": null,
+    "name": "St.Patrick's International College, London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.strath.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "strath.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Strathclyde"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.sunderland.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "sunderland.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Sunderland"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.surrey.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "surrey.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Surrey"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.sussex.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "sussex.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Sussex"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.swan.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "swan.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wales, Swansea"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.tcm.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "tcm.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Trinity College of Music"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.tees.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "tees.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Teesside"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.trinity-cm.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "trinity-cm.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Trinity College Carmarthen"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.tvu.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "tvu.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Thames Valley University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ucl.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ucl.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University College London, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.uclan.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "uclan.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Central Lancashire"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ucs.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ucs.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University Campus Suffolk"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.uea.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "uea.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of East Anglia"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.uel.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "uel.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of East London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ukc.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ukc.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Kent at Canterbury"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ulsop.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ulsop.ac.uk"
+    ],
+    "state-province": null,
+    "name": "School of Pharmacy, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.ulst.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ulst.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Ulster"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.umds.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "umds.ac.uk"
+    ],
+    "state-province": null,
+    "name": "United Medical and Dental Schools, University of London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.unl.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "unl.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of North London"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.northumbria.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "northumbria.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Northumbria University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.uwcm.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "uwcm.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wales College of Medicine"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.uwe.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "uwe.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of the West of England, Bristol"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.uwic.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "uwic.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wales Institute, Cardiff"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.wales.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "wales.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wales"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.warnborough.edu/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "warnborough.edu"
+    ],
+    "state-province": null,
+    "name": "Warnborough University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.warwick.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "warwick.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Warwick"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.westminster.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "westminster.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Westminster"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.williamgilbert.co.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "williamgilbert.co.uk"
+    ],
+    "state-province": null,
+    "name": "William Gilbert College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.wimbledon.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "wimbledon.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Wimbledon School of Art"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.wlv.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "wlv.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Wolverhampton"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.worc.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "worc.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of Worcester"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "http://www.york.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "york.ac.uk"
+    ],
+    "state-province": null,
+    "name": "University of York"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.mbro.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "middlesbro.ac.uk",
+      "mbro.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Middlesbrough College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.stmarys.ac.uk/home.aspx"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "stmarys.ac.uk"
+    ],
+    "state-province": null,
+    "name": "St Mary's University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.leedstrinity.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "leedstrinity.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Leeds Trinity University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.eastcoast.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "eastcoast.ac.uk"
+    ],
+    "state-province": null,
+    "name": "East Coast College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.swansea.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "swansea.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Swansea University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.yorksj.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "yorksj.ac.uk"
+    ],
+    "state-province": null,
+    "name": "York St. John University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://cavc.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "cavc.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Cardiff and Vale College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://wakefield.ac.uk"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "wakefield.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Wakefield College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.lis.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "lis.ac.uk"
+    ],
+    "state-province": null,
+    "name": "London Interdisciplinary School"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.hult.edu/campuses/london/postgraduate/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "hult.edu"
+    ],
+    "state-province": null,
+    "name": "HULT Business School"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://bath.ac.uk"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "bath.edu"
+    ],
+    "state-province": null,
+    "name": "University of Bath"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.ulster.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ulster.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Ulster University"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://uplearnbusinessschool.com/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "uplearnbusinessschool.com"
+    ],
+    "state-province": null,
+    "name": "Up Learn Business School"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.ncl-coll.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "ncl-coll.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Newcastle College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.btc.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "btc.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Bridgwater & Taunton College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.runshaw.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "runshaw.ac.uk"
+    ],
+    "state-province": null,
+    "name": "Runshaw College"
+  },
+  {
+    "country": "United Kingdom",
+    "web_pages": [
+      "https://www.wsc.ac.uk/"
+    ],
+    "alpha_two_code": "GB",
+    "domains": [
+      "wsc.ac.uk"
+    ],
+    "state-province": null,
+    "name": "West Suffolk College"
+  }
+]
