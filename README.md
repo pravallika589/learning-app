@@ -1,6 +1,6 @@
 
 
-
+https://medium.com/@bhargavr445/angular-for-beginners-part-1-angular-topics-index-7f17eea77fef
 
 http://universities.hipolabs.com/search?country=United+Kingdom - GET
 

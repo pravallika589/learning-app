@@ -11,6 +11,10 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { VehicleComponent } from './vehicle/vehicle.component';
 import { GamesComponent } from './games/games.component';
+import { ShoppingComponent } from './shopping/shopping.component';
+import { MensComponent } from './shopping/mens/mens.component';
+import { WomensComponent } from './shopping/womens/womens.component';
+import { KidsComponent } from './shopping/kids/kids.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +25,11 @@ import { GamesComponent } from './games/games.component';
     HomeComponent,
     AboutComponent,
     VehicleComponent,
-    GamesComponent
+    GamesComponent,
+    ShoppingComponent,
+    MensComponent,
+    WomensComponent,
+    KidsComponent
   ],
   imports: [
     BrowserModule,

@@ -6,6 +6,10 @@ import { AboutComponent } from './about/about.component';
 import { HomeComponent } from './home/home.component';
 import { GamesComponent } from './games/games.component';
 import { VehicleComponent } from './vehicle/vehicle.component';
+import { ShoppingComponent } from './shopping/shopping.component';
+import { MensComponent } from './shopping/mens/mens.component';
+import { WomensComponent } from './shopping/womens/womens.component';
+import { KidsComponent } from './shopping/kids/kids.component';
 
 const routes: Routes = [
   {path: '', redirectTo: 'home', pathMatch: 'full'},
@@ -14,7 +18,13 @@ const routes: Routes = [
   {path : 'about' , component :AboutComponent},
   {path : 'home' , component : HomeComponent},
   {path : 'games', component :GamesComponent},
-  {path : 'vehicle', component :VehicleComponent}
+  {path : 'vehicle', component :VehicleComponent},
+  {path: 'shopping', component : ShoppingComponent, children: [
+    {path: '', redirectTo: 'mens', pathMatch: 'full'},
+    {path: 'mens', component: MensComponent},
+    {path: 'womens', component: WomensComponent},
+    {path: 'kids', component: KidsComponent}
+  ]}
 
 ];
 

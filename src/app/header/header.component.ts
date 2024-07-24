@@ -41,13 +41,21 @@ export class HeaderComponent {
     this.router.navigate([routerPath]);
   }
 
+  navigateToShopping() {
+    console.log('shopping');
+    this.router.navigate(['shopping']);
+
+  }
+
+
+  /*
   add(value1: number, value2: number) {
 
   }
 
   getInfo(a: string, x: number, c: boolean) {
 
-  }
+  }*/
 
   // someName() {
 
