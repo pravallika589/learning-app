@@ -9,6 +9,7 @@ https://vpic.nhtsa.dot.gov/api/vehicles/GetVehicleTypesForMake/merc?format=json
 
 // ng new udemy-app --standalone=false
 // component creation  -> ng g c name
+//service file creation: ng g s
 
 
 Data Types:
@@ -21,4 +22,9 @@ Objects
 nested objects
 selectors
 
-Functions:
+Functions
+anonomous function
+arrow functions
+functions wih return types
+
+Routing:

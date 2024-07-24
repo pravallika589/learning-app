@@ -1,1 +1,25 @@
+
+<div class="main">
   <p>We teach all Courses related to AI</p>
+
+<button (click)="getDataFromApi()">search</button>
+
+<table>
+  <thead>
+    <tr>
+      <th>Uni Name</th>
+      <th>Country</th>
+      <th>Country Code</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let university of universityList">
+      <td>{{university.name}}</td>
+      <td>{{university.country}}</td>
+      <td>{{university.alpha_two_code}}</td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
