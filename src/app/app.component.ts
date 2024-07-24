@@ -68,6 +68,18 @@ export class AppComponent {
   //   p3: {}
   // }
 
+  
+
+  pr = {
+    id: 10,
+    pName: 'Mac'
+  }
+  // this.pr.pName
+
+  
+//this.products[0].pName - 
+
+
   products: ProductDetailsI[] = [
     {
       pId: 'xb101',
