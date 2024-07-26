@@ -1,5 +1,6 @@
 import { Component, inject } from '@angular/core';
 import { UniversityService } from '../university.service';
+import { UniversityDetailsApiResponseI } from '../interfaces/UniversityDetailsApiResponseI';
 
 @Component({
   selector: 'app-university',
@@ -8,7 +9,7 @@ import { UniversityService } from '../university.service';
 })
 export class UniversityComponent {
 
-  universityList: any = [];
+  universityList: UniversityDetailsApiResponseI[] = [];
 
   universityService = inject(UniversityService);
 

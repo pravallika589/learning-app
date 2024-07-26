@@ -57,6 +57,8 @@ export class AppComponent {
     productsPrice: [100, 20, 800, 400, 40],
   };
 
+  // this.customer['lastName']
+
   //this.customer.id
   //this.customer.name
   //this.customer.address
@@ -136,13 +138,29 @@ export class AppComponent {
 
   }
 
-  add() {
 
-  }
+  
 
   getStudentsInfo() {
     console.log('triggered...');
   }
+
+
+  // add(v1: number, v2: number): number {
+  //   return v1+v2;
+  // }
+
+  // add1 = (v1: number, v2: number) => {
+  //   return v1+v2;
+  // }
+
+  // add15 = (v1: number, v2: number) =>  v1+v2;
+
+
+  // add12= (v1: number, v2: number) => {
+  //   let r = v1+v2
+  //   return r;
+  // }
 
 
 

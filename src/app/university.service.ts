@@ -1,5 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { inject, Injectable } from '@angular/core';
+import { Observable } from 'rxjs';
+import { UniversityDetailsApiResponseI } from './interfaces/UniversityDetailsApiResponseI';
 
 @Injectable({
   providedIn: 'root'
@@ -12,9 +14,9 @@ export class UniversityService {
 
   // }
 
-  getUniversitysListFromApi() {
+  getUniversitysListFromApi(): Observable<UniversityDetailsApiResponseI[]> {
     console.log('funct service...')
-    let response =  this.http.get('http://universities.hipolabs.com/search?country=United+Kingdom');
+    let response =  this.http.get<UniversityDetailsApiResponseI[]>('http://universities.hipolabs.com/search?country=United+Kingdom');
     return response;
   }
 }
@@ -24,3 +26,10 @@ export class UniversityService {
 // R - Retrieve - GET
 // U - Update - PUT
 // D - Delete - Delete
+
+
+// {
+//   fn: '',
+//   sn: '',
+//   data: ''
+// }

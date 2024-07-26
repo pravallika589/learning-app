@@ -4,7 +4,7 @@
 
 <button (click)="getDataFromApi()">search</button>
 
-<table>
+<table *ngIf="universityList.length > 0">
   <thead>
     <tr>
       <th>Uni Name</th>
@@ -22,4 +22,5 @@
 
   </tbody>
 </table>
+<p>I am under the table</p>
 </div>
