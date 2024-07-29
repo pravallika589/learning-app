@@ -1,7 +1,14 @@
 
 
-<app-header></app-header>
-<router-outlet></router-outlet>
+  <app-header></app-header>
+  <div *ngIf="isApiLoading">
+    <div class="spinner-overlay">
+      <div class="spinner"></div>
+  </div>
+  </div>
+  <router-outlet></router-outlet>
+
+
 
 
 

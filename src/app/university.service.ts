@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { inject, Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { delay, Observable } from 'rxjs';
 import { UniversityDetailsApiResponseI } from './interfaces/UniversityDetailsApiResponseI';
 
 @Injectable({
@@ -16,7 +16,7 @@ export class UniversityService {
 
   getUniversitysListFromApi(): Observable<UniversityDetailsApiResponseI[]> {
     console.log('funct service...')
-    let response =  this.http.get<UniversityDetailsApiResponseI[]>('http://universities.hipolabs.com/search?country=United+Kingdom');
+    let response =  this.http.get<UniversityDetailsApiResponseI[]>('http://universities.hipolabs.com/search?country=United+Kingdom').pipe(delay(4000));
     return response;
   }
 }

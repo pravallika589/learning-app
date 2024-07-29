@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, inject, OnInit } from '@angular/core';
+import { SpinnerService } from './spinner.service';
 
 interface CustomerI {
   id: number;
@@ -27,7 +28,23 @@ interface AddressI {
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
+
+  isApiLoading = false;
+
+  spinnerService = inject(SpinnerService);
+
+  ngOnInit(): void {
+    this.spinnerService.apiCallStatus.subscribe(
+      (x) => {
+        console.log(x);
+        this.isApiLoading = x;
+      }
+    )
+  }
+
+
+ 
 
   studentApiResponse: any;
 
