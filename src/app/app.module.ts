@@ -15,6 +15,8 @@ import { ShoppingComponent } from './shopping/shopping.component';
 import { MensComponent } from './shopping/mens/mens.component';
 import { WomensComponent } from './shopping/womens/womens.component';
 import { KidsComponent } from './shopping/kids/kids.component';
+import { AboutFormComponent } from './about/about-form/about-form.component';
+import { AboutTableComponent } from './about/about-table/about-table.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +31,9 @@ import { KidsComponent } from './shopping/kids/kids.component';
     ShoppingComponent,
     MensComponent,
     WomensComponent,
-    KidsComponent
+    KidsComponent,
+    AboutFormComponent,
+    AboutTableComponent
   ],
   imports: [
     BrowserModule,

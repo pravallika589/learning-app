@@ -1,0 +1,17 @@
+<p>{{tableLabel}}</p>
+
+
+<div class="cards-container">
+   
+  <div class="card" *ngFor="let game of gamesList">
+      <img [src]="game.thumb"  class="card-image">
+      <div class="card-content">
+          <h2 class="card-title">{{game.title}}</h2>
+          <p class="card-description">{{game.internalName}}</p>
+          <div class="footer-section">
+              <div class="platform-section">${{game.salePrice}}</div>
+              <div><a  target="_blank">{{game.dealRating}}</a></div>
+          </div>
+      </div>
+  </div>
+</div>

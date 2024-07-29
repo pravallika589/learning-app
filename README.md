@@ -26,5 +26,15 @@ Functions
 anonomous function
 arrow functions
 functions wih return types
+functions with parameters
 
 Routing:
+Child routing
+
+Interfaces
+
+Observable
+
+Constructors
+ngOnInIt():
+Differences b/w constructor and ngOnInIt

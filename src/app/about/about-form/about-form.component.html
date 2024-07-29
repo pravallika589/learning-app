@@ -1,0 +1,8 @@
+<button (click)="getAllGames()">Search Games</button>
+
+<div class="main" *ngIf="gamesListApiResp.length > 0">
+  <app-about-table 
+    [gamesList]="gamesListApiResp" 
+    [tableLabel]="label">
+  </app-about-table>
+</div>

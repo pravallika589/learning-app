@@ -10,6 +10,10 @@ export class VehiclsService {
 
   constructor() { }
 
+  getAllGamesFromApi() {
+   return this.httpClient.get('https://www.cheapshark.com/api/1.0/deals?upperPrice=15');
+  }
+
 
   getVehiclesListFromApi() {
 
