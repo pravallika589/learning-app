@@ -1,7 +1,15 @@
 
 <ul>
-  <li><a class="active" >Home</a></li>
-  <li><a >Student</a></li>
-  <li><a >University</a></li>
-  <li><a >About</a></li>
+  <li><a (click)="navigateToHome()" >Home</a></li>
+  <li><a (click)="navigateToStudent()">Student</a></li>
+  <li><a (click)="navigateToUniversity()">University</a></li>
+  <li><a routerLink="about">About</a></li>
+  <li><a (click)="navigateTo('games')">Games</a></li>
+  <li><a (click)="navigateTo('vehicle')">Vehicle</a></li>
+  <li><a (click)="navigateToShopping()">Shopping</a></li>
+  <li><a (click)="navigateTo('movies')">Movies</a></li>
+
+ 
 </ul>
+
+<!-- <button (click)="getInfo('Tom', 20, false)">Some</button> -->

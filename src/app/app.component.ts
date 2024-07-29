@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, inject, OnInit } from '@angular/core';
+import { SpinnerService } from './spinner.service';
 
 interface CustomerI {
   id: number;
@@ -27,7 +28,23 @@ interface AddressI {
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
+
+  isApiLoading = false;
+
+  spinnerService = inject(SpinnerService);
+
+  ngOnInit(): void {
+    this.spinnerService.apiCallStatus.subscribe(
+      (x) => {
+        console.log(x);
+        this.isApiLoading = x;
+      }
+    )
+  }
+
+
+ 
 
   studentApiResponse: any;
 
@@ -57,6 +74,8 @@ export class AppComponent {
     productsPrice: [100, 20, 800, 400, 40],
   };
 
+  // this.customer['lastName']
+
   //this.customer.id
   //this.customer.name
   //this.customer.address
@@ -67,6 +86,18 @@ export class AppComponent {
   //   p2: {},
   //   p3: {}
   // }
+
+  
+
+  pr = {
+    id: 10,
+    pName: 'Mac'
+  }
+  // this.pr.pName
+
+  
+//this.products[0].pName - 
+
 
   products: ProductDetailsI[] = [
     {
@@ -124,13 +155,29 @@ export class AppComponent {
 
   }
 
-  add() {
 
-  }
+  
 
   getStudentsInfo() {
     console.log('triggered...');
   }
+
+
+  // add(v1: number, v2: number): number {
+  //   return v1+v2;
+  // }
+
+  // add1 = (v1: number, v2: number) => {
+  //   return v1+v2;
+  // }
+
+  // add15 = (v1: number, v2: number) =>  v1+v2;
+
+
+  // add12= (v1: number, v2: number) => {
+  //   let r = v1+v2
+  //   return r;
+  // }
 
 
 
