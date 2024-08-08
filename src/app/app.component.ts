@@ -147,8 +147,8 @@ export class AppComponent implements OnInit {
 
   testValues() {
     console.log(this.products[3]);
-    console.log(this.products[3].delAdd.state);
-    console.log(this.customer.address.state);
+    console.log(this.products[3].delAdd?.state);
+    console.log(this.customer?.address?.state);
     console.log(this.name);
     this.name = 'Virginia';
     console.log(this.name);
@@ -177,6 +177,34 @@ export class AppComponent implements OnInit {
   // add12= (v1: number, v2: number) => {
   //   let r = v1+v2
   //   return r;
+  // }
+
+  // () {
+
+  // }
+
+  // () => {
+
+  // }
+
+  // (x) => {
+  //   console.log(x)
+  // }
+
+  // add() {
+
+  // }
+
+  // add1 = () => {
+
+  // }
+
+  // multi(v1) {
+
+  // }
+
+  // mult1 = v1 => {
+
   // }
 
 

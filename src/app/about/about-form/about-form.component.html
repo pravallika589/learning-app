@@ -1,8 +1,8 @@
 <button (click)="getAllGames()">Search Games</button>
 
 <div class="main" *ngIf="gamesListApiResp.length > 0">
-  <app-about-table 
-    [gamesList]="gamesListApiResp" 
-    [tableLabel]="label">
-  </app-about-table>
+ <p> games list display here</p>
+  <!-- <app-about-table [email]="'Twitter'" [name]="'twitter@gmail.com'"></app-about-table> -->
+
+  <app-about-table [gamesList]="gamesListApiResp"></app-about-table>
 </div>

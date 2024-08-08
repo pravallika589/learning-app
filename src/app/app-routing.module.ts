@@ -10,6 +10,9 @@ import { ShoppingComponent } from './shopping/shopping.component';
 import { MensComponent } from './shopping/mens/mens.component';
 import { WomensComponent } from './shopping/womens/womens.component';
 import { KidsComponent } from './shopping/kids/kids.component';
+import { InfoComponent } from './info/info.component';
+import { OverviewComponent } from './info/overview/overview.component';
+import { DetailsComponent } from './info/details/details.component';
 // import { GamesModule } from './games/games.module';
 
 const routes: Routes = [
@@ -24,7 +27,12 @@ const routes: Routes = [
     {path: '', redirectTo: 'mens', pathMatch: 'full'},
     {path: 'mens', component: MensComponent},
     {path: 'womens', component: WomensComponent},
-    {path: 'kids', component: KidsComponent}
+    {path: 'kids', component: KidsComponent} 
+  ]},
+  {path: 'info' , component : InfoComponent, children: [
+    {path: '', redirectTo: 'overview', pathMatch: 'full'},
+    {path: 'overview', component: OverviewComponent},
+    {path: 'details', component: DetailsComponent},
   ]},
   
 

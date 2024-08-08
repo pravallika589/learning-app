@@ -1,7 +1,7 @@
 import { Component, inject, OnInit } from '@angular/core';
 import { UniversityService } from '../university.service';
-import { UniversityDetailsApiResponseI } from '../interfaces/UniversityDetailsApiResponseI';
 import { SpinnerService } from '../spinner.service';
+import { UniversityDetailsI } from '../interfaces/UniversityDetailsApiResponseI';
 
 @Component({
   selector: 'app-university',
@@ -10,7 +10,7 @@ import { SpinnerService } from '../spinner.service';
 })
 export class UniversityComponent implements OnInit {
 
-  universityList: UniversityDetailsApiResponseI[] = [];
+  universityList: UniversityDetailsI[] = [];
 
   universityService = inject(UniversityService);
   spinnerService = inject(SpinnerService);
@@ -27,7 +27,7 @@ export class UniversityComponent implements OnInit {
       (universityResponse) => {
         console.log('Success resp');
         console.log(universityResponse);
-        this.universityList = universityResponse;
+        this.universityList = universityResponse.data;
         this.spinnerService.isLoading.next(false);
 
       },

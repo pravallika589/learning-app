@@ -18,19 +18,18 @@ export class AboutFormComponent {
 
 
   getAllGames() {
-    this.spinnerService.isLoading.next(true);
     this.vehiclsService.getAllGamesFromApi().subscribe(
       (resp) => {
         console.log(resp);
         this.gamesListApiResp = resp;
-        this.spinnerService.isLoading.next(false);
       },
       (error) => {
         console.log(error);
-        this.spinnerService.isLoading.next(false);
 
       }
     );
   }
+
+
 
 }

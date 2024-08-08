@@ -32,7 +32,7 @@ export class HeaderComponent {
   }
 
   navigateToAbout() {
-    console.log('about')
+    console.log('About')
     this.router.navigate(['about']);
   }
   
@@ -42,11 +42,29 @@ export class HeaderComponent {
   }
 
   navigateToShopping() {
-    console.log('shopping');
+    console.log('Shopping');
     this.router.navigate(['shopping']);
 
   }
 
+  navigateToInfo() {
+    console.log('Info')
+    this.router.navigate(['info']);
+
+  }
+
+
+  navigateToSignUp() {
+    console.log('Signup')
+    this.router.navigate(['signup']);
+
+  }
+  
+  navigateToLogin() {
+    console.log('Login')
+    this.router.navigate(['login']);
+
+  }
 
   /*
   add(value1: number, value2: number) {

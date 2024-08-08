@@ -5,15 +5,13 @@ import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
   templateUrl: './about-table.component.html',
   styleUrl: './about-table.component.css'
 })
-export class AboutTableComponent implements OnChanges {
+export class AboutTableComponent {
 
-  @Input({required: true}) gamesList: any;
-  @Input() tableLabel: string;
+  @Input() gamesList: any;
 
+  // @Input() name: string = '';
+  // @Input() email: string = '';
 
-  ngOnChanges(): void {
-      console.log('Data changed...')
-  }
 
 
   

@@ -15,6 +15,11 @@ import { WomensComponent } from './shopping/womens/womens.component';
 import { KidsComponent } from './shopping/kids/kids.component';
 import { AboutFormComponent } from './about/about-form/about-form.component';
 import { AboutTableComponent } from './about/about-table/about-table.component';
+import { InfoComponent } from './info/info.component';
+import { OverviewComponent } from './info/overview/overview.component';
+import { DetailsComponent } from './info/details/details.component';
+
+
 
 @NgModule({
   declarations: [
@@ -31,6 +36,11 @@ import { AboutTableComponent } from './about/about-table/about-table.component';
     KidsComponent,
     AboutFormComponent,
     AboutTableComponent,
+    InfoComponent,
+    OverviewComponent,
+    DetailsComponent
+
+  
   ],
   imports: [
     BrowserModule,

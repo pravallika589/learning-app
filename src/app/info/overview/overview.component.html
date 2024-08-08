@@ -1,0 +1,22 @@
+
+
+<div class="main">
+
+  <table>
+    <thead>
+      <th>Country</th>
+      <th>Code</th>
+      <th>No of Universities</th>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let uniObj of universityNumberList?.data">
+        <td>{{uniObj?.country}}</td>
+        <td>{{uniObj?.countryCode}}</td>
+        <td class="number-click" (click)="onNoOfUniv(uniObj)">{{uniObj?.total}}</td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+
