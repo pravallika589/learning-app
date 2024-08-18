@@ -18,6 +18,11 @@ import { AboutTableComponent } from './about/about-table/about-table.component';
 import { InfoComponent } from './info/info.component';
 import { OverviewComponent } from './info/overview/overview.component';
 import { DetailsComponent } from './info/details/details.component';
+import { SignUpComponent } from './sign-up/sign-up.component';
+import { LoginComponent } from './login/login.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { StudentCreateFormComponent } from './student/student-create-form/student-create-form.component';
+import { StudentTableComponent } from './student/student-table/student-table.component';
 
 
 
@@ -38,14 +43,20 @@ import { DetailsComponent } from './info/details/details.component';
     AboutTableComponent,
     InfoComponent,
     OverviewComponent,
-    DetailsComponent
+    DetailsComponent,
+    SignUpComponent,
+    LoginComponent,
+    StudentCreateFormComponent,
+    StudentTableComponent
 
   
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,7 +1,7 @@
 import { Component, inject, OnInit } from '@angular/core';
-import { UniversityService } from '../university.service';
 import { SpinnerService } from '../spinner.service';
 import { UniversityDetailsI } from '../interfaces/UniversityDetailsApiResponseI';
+import { UniversityService } from '../api-services/university.service';
 
 @Component({
   selector: 'app-university',

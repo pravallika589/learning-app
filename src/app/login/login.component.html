@@ -1,0 +1,14 @@
+
+
+<form [formGroup]="userLoginForm">
+  <label for="Name">UserName</label><br>
+  <input type="text" id="name" name="userName" formControlName="userName" placeholder="Enter User Name"><br>
+
+  <label for="Password">PassWord</label><br>
+  <input type="text" id="Password" name="password"  formControlName="password" placeholder="Enter PassWord"><br>
+
+</form>
+
+
+
+<button (click)="loginUser()">Login</button>

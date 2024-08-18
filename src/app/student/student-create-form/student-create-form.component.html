@@ -1,0 +1,35 @@
+
+<form [formGroup]="createStudentForm">
+  
+  <label for="name">Name *</label> <br>
+  <input formControlName="studentName" type="text" name="" id=""><br>
+  <div *ngIf="createStudentForm.get('studentName').errors['required']">
+    This is a required Field
+  </div>
+
+  <label for="ID">ID</label> <br>
+  <input formControlName="studentId" type="text" name="ID" id="ID"><br>
+
+  <label for="phoneNumber">Phone Number</label> <br>
+  <input formControlName="studentPhoneNumber" type="text" name="phoneNumber" id="phoneNumber"><br>
+  
+  <label for="course">Course</label> <br>
+  <input formControlName="course" type="text" name="course" id="course"><br>
+ 
+  <label for="year">year</label> <br>
+  <input formControlName="year" type="number" name="year" id="year"><br>
+  
+  <label for="country">Country</label> <br>
+  <input formControlName="country" type="text" name="country" id="country"><br>
+</form>
+<button [disabled]="!this.createStudentForm.valid" (click)="addStudent()">Add Student</button>
+
+
+ <!-- <button (click)="studentInfo()">Students</button>   -->
+<p></p>
+<div>
+  <app-student-table [studentList] ="studentDataList "/>
+</div>
+
+
+<!--980-098-0986 -->

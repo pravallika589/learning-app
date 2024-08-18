@@ -1,0 +1,42 @@
+
+<form [formGroup]="userSignUpForm">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name-input" name="name" formControlName="userName"><br>
+  <div class="error-msg" *ngIf="userSignUpForm.get('userName').hasError('required')">
+    This is required field.
+  </div>
+
+  <div class="error-msg" *ngIf="userSignUpForm.get('userName').hasError('minlength')">
+    Min length validation failed.
+  </div>
+
+  <p class="error-msg" *ngIf="userSignUpForm.get('userName').hasError('maxlength')">
+    Max length validation failed.
+  </p>
+  
+  
+  <label for="Email">Email</label><br> 
+  <input type="email" id="Email-input" name="Email" formControlName="email" placeholder="Enter name Here"><br>
+
+  <label for="role">Role:</label><br>
+  <input type="text" name="role" id="role" formControlName="role"> <br>
+
+  <label for="Password">Password</label><br>
+  <input type="password" id="Password-input" name="Password" formControlName="password"><br>
+  <p class="error-msg" *ngIf="userSignUpForm.get('password').hasError('shouldCOntainNumber')">
+    Should contain atleast 1 number..
+  </p>
+
+  
+
+  <p class="error-msg" *ngIf="userSignUpForm.get('password').hasError('shouldContainSplChar')">
+    Should contain atleast 1 Spl Char...
+  </p>
+</form>
+
+
+  
+  <button type="reset">Cancel</button>
+  <button type="submit" (click)="submitSignUpForm()">Sign Up</button>
+
+ 

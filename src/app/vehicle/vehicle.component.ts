@@ -1,5 +1,5 @@
 import { Component, inject } from '@angular/core';
-import { VehiclsService } from '../vehicls.service';
+import { VehiclsService } from '../api-services/vehicls.service';
 
 @Component({
   selector: 'app-vehicle',

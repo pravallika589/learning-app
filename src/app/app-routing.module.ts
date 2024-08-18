@@ -13,10 +13,12 @@ import { KidsComponent } from './shopping/kids/kids.component';
 import { InfoComponent } from './info/info.component';
 import { OverviewComponent } from './info/overview/overview.component';
 import { DetailsComponent } from './info/details/details.component';
+import { SignUpComponent } from './sign-up/sign-up.component';
+import { LoginComponent } from './login/login.component';
 // import { GamesModule } from './games/games.module';
 
 const routes: Routes = [
-  {path: '', redirectTo: 'home', pathMatch: 'full'},
+  {path: '', redirectTo: 'login', pathMatch: 'full'},
   {path: 'student', component: StudentComponent},
   {path: 'university', component: UniversityComponent},
   {path : 'about' , component :AboutComponent},
@@ -37,6 +39,8 @@ const routes: Routes = [
   
 
   {path : 'movies', loadChildren: () => import('./movies/movies.module').then(m => m.MoviesModule)},
+  {path: 'signup', component: SignUpComponent},
+  {path: 'login', component: LoginComponent} ,
 
 ];
 

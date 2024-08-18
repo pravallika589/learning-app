@@ -30,3 +30,8 @@ tr svg {
   width: 80%;
   margin: 0 auto;
 }
+
+.error-msg {
+  color: red;
+  margin: 10px 5px;
+}

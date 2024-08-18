@@ -93,6 +93,7 @@ export class AppComponent implements OnInit {
     id: 10,
     pName: 'Mac'
   }
+  // pr.email = 'mac@gmail.com'
   // this.pr.pName
 
   

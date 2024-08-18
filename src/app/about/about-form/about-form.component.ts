@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { VehiclsService } from '../../vehicls.service';
 import { SpinnerService } from '../../spinner.service';
+import { VehiclsService } from '../../api-services/vehicls.service';
 
 @Component({
   selector: 'app-about-form',

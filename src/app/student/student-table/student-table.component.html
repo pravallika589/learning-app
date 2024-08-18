@@ -1,0 +1,21 @@
+
+<table>
+  <thead>
+    <th>Name</th>
+    <th>Id</th>
+    <th>PhoneNumber</th>
+    <th>Course</th>
+    <th>Year</th>
+    <th>Country</th>
+  </thead>
+
+  <tr *ngFor="let stu of studentList?.data">
+    <td>{{stu.studentName | titlecase}}</td>
+    <td>{{stu.studentId}}</td>
+    <td>{{stu.studentPhoneNumber}}</td>
+    <td>{{stu.course | titlecase}}</td>
+    <td>{{stu.year}}</td>
+  </tr>
+
+
+</table>

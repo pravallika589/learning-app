@@ -1,6 +1,5 @@
 import { HttpClient } from '@angular/common/http';
 import { inject, Injectable } from '@angular/core';
-import { delay } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -12,7 +11,7 @@ export class VehiclsService {
   constructor() { }
 
   getAllGamesFromApi() {
-   return this.httpClient.get('https://www.cheapshark.com/api/1.0/deals?upperPrice=15').pipe(delay(2000));
+   return this.httpClient.get('https://www.cheapshark.com/api/1.0/deals?upperPrice=15');
   }
 
 
